@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-![Profile Banner](./images/computer.gif)
+<p align="center">![Profile Banner](./images/computer.gif)
 
 ## 🚀 About Me
 
