@@ -36,12 +36,18 @@ I am **Vincent Carter**, a Python Developer with a passion for crafting scalable
 
 ## 💼 Professional Experience
 
-### AI Developer @ QuizQuest AI
+### AI Developer @ Brainhub
 **May 2024 – Present | Taipei City, Taiwan**
-- Developed a modular Django-based backend for AI-driven educational platforms.
-- Enhanced user engagement by 35% with AI-powered features (LangChain, ChatGPT).
-- Designed a ChromaDB RAG system, boosting data retrieval performance by 50%.
-- Streamlined deployment with Docker for scalable environments.
+- *System Development & Data Engineering*: Led the end-to-end design and deployment of an AI-driven
+educational system by configuring local and cloud environments (Python, Docker), developing a complex AI
+agent as a personal studying assistant, and performing extensive EDA with robust data preprocessing to ensure
+high-quality datasets.
+- *Advanced RAG & AI Solutions*: Designed a vector-based storage solution integrated with LLMs and
+Elasticsearch, enhancing unstructured data retrieval with semantic search (BM25 index with sentence-
+transformers) and dynamic data curation via AI agents; additionally, developed a context-aware dialogue system
+using LangChain and Llama 3.2, reducing response times by 30%.
+- *Deployed machine learning models as microservices using FastAPI*, ensuring scalable and maintainable
+integration within the platform.
 
 ### Business Process Automation Developer
 **Jan 2022 – Sep 2024 | Rockville, MD, USA**
