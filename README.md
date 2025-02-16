@@ -70,13 +70,15 @@ integration within the platform.
 
 ## 🌟 Highlighted Projects
 
-### [AI-Powered Educational Platform](https://github.com/vincentcarter/ai-edu-platform)
-- Modular Django backend with secure RBAC and AI-driven features.
-- ChromaDB for efficient vectorized data storage.
+### [AI Chatbot with RAG database using Deepseek-R1](https://github.com/purleaf/Deepseek-R1-RAG)
+1. Document Ingestion & Chunking
+2. Chat History Management
+3. Advanced Reasoning
 
-### [Insurance Workflow Automation](https://github.com/vincentcarter/insurance-automation)
-- Flask-based APIs and AI-powered customer assistant.
-- Integrated predictive models to reduce policy lapses.
+### [AI Agent for Web Deep Research](https://github.com/purleaf/Open-Deep-Research--Smolagents)
+1. Command Line Interface (CLI)
+2. Multiple AI Models Integration
+3. Tool Support: Integrates various web and text inspection tools to gather and verify information.
 
 ---
 
