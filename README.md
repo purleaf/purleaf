@@ -57,17 +57,6 @@ integration within the platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/purleaf">
-  <img src="https://github-readme-stats.vercel.app/api?username=purleaf&show_icons=true&theme=tokyonight" alt="Vincent's GitHub stats"/>
-</a>
-<a href="https://github.com/purleaf">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purleaf&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</a>
-
----
-
 ## 🌟 Highlighted Projects
 
 ### [AI Chatbot with RAG database using Deepseek-R1](https://github.com/purleaf/Deepseek-R1-RAG)
